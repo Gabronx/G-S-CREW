@@ -11,28 +11,30 @@ const reviews = [
     },
     {
         id: 2,
-        name: "Rafael Bridaroli",
-        job: "Digital marketing",
+        name: "Joao Brun",
+        job: "musician",
         img:
-            "/img/brida.js.jpg",
+            "/img/joao.js.jpg",
         text:
             "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
     },
+
     {
         id: 3,
-        name: "Vitor Mesquita",
-        job: "Software Project Management",
+        name: "Gustavo Liesch",
+        job: "Full Stack Developer",
         img:
-            "/img/vitinho.js.jpg",
+            "/img/G.js.jpg",
         text:
-            `"Eu sempre gostei de tecnologia, quando criança desmontava e montava computadores e sempre fui muito curioso sobre como um monte de peças, chips e placas podiam ser usadas juntas e gerar um sistema, com milhares e milhares de informações e funcionalidades… Os anos foram se passando, e assim que tive que escolher o meu curso da faculdade e futura profissão, eu já sabia qual rumo queria seguir. Minha inspiração na área são todos os devs que começaram por conta própria e hoje ocupam cargos em grandres empresas de tecnologia. Minha meta é um dia poder gerenciar um grande projeto de software em uma grande empresa.."`,
+            "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
     },
+
     {
         id: 4,
-        name: "Isabelle Costa",
-        job: "Lawyer",
+        name: "Gian Lucas",
+        job: "Full Stack Developer",
         img:
-            "/img/isaCosta.js.jpg",
+            "/img/gian.js.jpg",
         text:
             "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
     },
@@ -43,83 +45,102 @@ const reviews = [
         img:
             "/img/Liv.js.jpg",
         text:
-            "Minha família inteira por parte de pai fez medicina já ele não, alguns anos depois ele se arrependeu mas nao teve mais a oportunidade entao ele sempre implorou para eu fazer mas eu nunca gostei da ideia, após um tempo eu comecei a considerar a medicina, mais especificamente a área neurológica porque minhas 3 avós tem problemas nurais. Eu quero virar uma neuro pois talvez eu nao possa ajudar minhas avos, mas eu poderia ajudar outras famílias com esses problemas.. ",
+            `"Minha família inteira por parte de pai fez medicina já ele não, alguns anos depois ele se arrependeu mas nao teve mais a oportunidade entao ele sempre implorou para eu fazer mas eu nunca gostei da ideia, após um tempo eu comecei a considerar a medicina, mais especificamente a área neurológica porque minhas 3 avós tem problemas nurais. Eu quero virar uma neuro pois talvez eu nao possa ajudar minhas avos, mas eu poderia ajudar outras famílias com esses problemas.. "`,
     },
     {
         id: 6,
-        name: "Isabelle Costa",
-        job: "Lawyer",
+        name: "Vitor Mesquita",
+        job: "Software Project Management",
         img:
-            "/img/ruivo.js.jpg",
+            "/img/vitinho.js.jpg",
         text:
-            "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+            `"Eu sempre gostei de tecnologia, quando criança desmontava e montava computadores e sempre fui muito curioso sobre como um monte de peças, chips e placas podiam ser usadas juntas e gerar um sistema, com milhares e milhares de informações e funcionalidades… Os anos foram se passando, e assim que tive que escolher o meu curso da faculdade e futura profissão, eu já sabia qual rumo queria seguir. Minha inspiração na área são todos os devs que começaram por conta própria e hoje ocupam cargos em grandres empresas de tecnologia. Minha meta é um dia poder gerenciar um grande projeto de software em uma grande empresa.."`,
     },
     {
         id: 7,
-        name: "Isabelle Costa",
-        job: "Lawyer",
+        name: "Andre Brun",
+        job: "Design",
         img:
-            "/img/ruivo.js.jpg",
+            "/img/andre.js.jpg",
         text:
             "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
     },
     {
-        id: 5,
-        name: "Isabelle Costa",
-        job: "Lawyer",
+        id: 8,
+        name: "Rafael Bridaroli",
+        job: "Digital Marketing",
         img:
-            "/img/ruivo.js.jpg",
+            "/img/brida.js.jpg",
         text:
             "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
     },
     {
-        id: 5,
+        id: 9,
         name: "Isabelle Costa",
         job: "Lawyer",
         img:
-            "/img/ruivo.js.jpg",
+            "/img/isaCosta.js.jpg",
         text:
             "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
     },
     {
-        id: 5,
-        name: "Isabelle Costa",
+        id: 10,
+        name: "Fabio Gabriel",
+        job: "Developer",
+        img:
+            "/img/gabo.js.jpg",
+        text:
+            "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+    },
+
+    {
+        id: 11,
+        name: "Gabriel Schloegl",
         job: "Lawyer",
         img:
-            "/img/ruivo.js.jpg",
+            "/img/gab.js.jpg",
         text:
             "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
     },
     {
-        id: 5,
-        name: "Isabelle Costa",
+        id: 12,
+        name: "Juan Gonçalves",
         job: "Lawyer",
         img:
-            "/img/ruivo.js.jpg",
+            "/img/juan.js.jpg",
         text:
             "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
     },
     {
-        id: 5,
-        name: "Isabelle Costa",
+        id: 13,
+        name: "Bruno Carmena",
         job: "Lawyer",
         img:
-            "/img/ruivo.js.jpg",
+            "/img/boludo.js.jpg",
         text:
             "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
     },
     {
-        id: 5,
-        name: "Isabelle Costa",
+        id: 14,
+        name: "Barbara Bortossi",
         job: "Lawyer",
         img:
-            "/img/ruivo.js.jpg",
+            "/img/babi.js.jpg",
         text:
             "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
     },
     {
-        id: 5,
-        name: "Isabelle Costa",
+        id: 15,
+        name: "Matheus",
+        job: "Lawyer",
+        img:
+            "/img/matheus.js.jpg",
+        text:
+            "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+    },
+    {
+        id: 16,
+        name: "Leonardo Salomom",
         job: "Lawyer",
         img:
             "/img/ruivo.js.jpg",
