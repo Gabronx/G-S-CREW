@@ -3,7 +3,8 @@
 
 #Responsive
 
-babi
+babi  
+
 ![image](https://github.com/Gabronx/GS-CREW/assets/102370008/1a047f8a-45e6-42d8-b6f4-a671dcce3a89)
 matheus
 ![image](https://github.com/Gabronx/GS-CREW/assets/102370008/6da8308e-224c-4883-965b-fe03fed92cc5)
