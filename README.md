@@ -1,9 +1,11 @@
 # GS-CREW
 ![image](https://github.com/Gabronx/GS-CREW/assets/102370008/39eccedc-e219-4242-b4ec-9973079df605)
 
-**responsive**  
+#Responsive
 
+babi
 ![image](https://github.com/Gabronx/GS-CREW/assets/102370008/1a047f8a-45e6-42d8-b6f4-a671dcce3a89)
+matheus
 ![image](https://github.com/Gabronx/GS-CREW/assets/102370008/6da8308e-224c-4883-965b-fe03fed92cc5)
 ![image](https://github.com/Gabronx/GS-CREW/assets/102370008/69c4f5c0-abc1-4289-ae18-62e6cae699a7)
 ![image](https://github.com/Gabronx/GS-CREW/assets/102370008/d1e90541-ae7b-4ca3-b34c-b9e410ac6e82)
